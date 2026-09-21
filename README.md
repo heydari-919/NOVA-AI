@@ -1,14 +1,14 @@
-# Vanta-AI
-WGTR AI  virtual atuonomous netwoerk task 
+# NOVA-AI
+NOVA AI  virtual atuonomous netwoerk task 
 
 
 
 
-# VANTA
+# NOVA
 
 > **An intelligent AI agent that understands, reasons, and acts.**
 
-VANTA is a modular AI agent designed to understand natural-language commands, reason about tasks, interact with digital environments, and execute actions through a flexible tool-based architecture.
+NOVA is a modular AI agent designed to understand natural-language commands, reason about tasks, interact with digital environments, and execute actions through a flexible tool-based architecture.
 
 The goal of VANTA is simple:
 
